@@ -1,0 +1,9 @@
+{
+  "deviceName": "Pixel 7",
+  "os": "Android",
+  "osVersion": "13",
+  "deviceScreenSize": "1080x2400",
+  "statusBarHeight": 63,
+  "navigationBarHeight": 126,
+  "orientation": "portrait"
+}
